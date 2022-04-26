@@ -344,8 +344,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-evenly",
     padding:15,
     margin:5,
-  //  height:'auto',
-  //  width:'auto',
   },
 
   Mobile:{
